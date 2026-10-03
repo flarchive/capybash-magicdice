@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of capybash/magicdice.** Not for installation: use [Packagist](https://packagist.org/packages/capybash/magicdice) or the [upstream repository](https://github.com/capybash/magicdice).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/capybash-magicdice/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/capybash-magicdice/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.1` | 2025-11-22 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicdice/tree/archive/v1.0.1) |
+| `v1.0.0` | 2025-11-22 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicdice/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/capybash-magicdice.json](https://github.com/flarchive/archive-index/blob/main/packages/capybash-magicdice.json)
 
